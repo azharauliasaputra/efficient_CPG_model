@@ -5,6 +5,823 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>00045AAB-F4CA-4892-BC74-E531F4821F7D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>00045AAB-F4CA-4892-BC74-E531F4821F7D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627889790.38326502</real>
+			<key>timeStoppedRecording</key>
+			<real>627889868.99035203</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>00045AAB-F4CA-4892-BC74-E531F4821F7D</string>
+		</dict>
+		<key>0255A6DA-1757-41EB-909A-34BFB47F16C9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0255A6DA-1757-41EB-909A-34BFB47F16C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882070.15120804</real>
+			<key>timeStoppedRecording</key>
+			<real>627882088.08650398</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>0255A6DA-1757-41EB-909A-34BFB47F16C9</string>
+		</dict>
+		<key>1412BDC8-368B-4090-94AC-F61828D515DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1412BDC8-368B-4090-94AC-F61828D515DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627892559.70242798</real>
+			<key>timeStoppedRecording</key>
+			<real>627892745.96285796</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>1412BDC8-368B-4090-94AC-F61828D515DC</string>
+		</dict>
+		<key>2626CC1F-2C6A-467D-95C0-F7EC1650B264</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2626CC1F-2C6A-467D-95C0-F7EC1650B264.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882887.73413897</real>
+			<key>timeStoppedRecording</key>
+			<real>627882897.221434</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>2626CC1F-2C6A-467D-95C0-F7EC1650B264</string>
+		</dict>
+		<key>316A1880-5DB1-432F-A323-66547E7B3E46</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>316A1880-5DB1-432F-A323-66547E7B3E46.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882223.15583503</real>
+			<key>timeStoppedRecording</key>
+			<real>627882310.84291399</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>316A1880-5DB1-432F-A323-66547E7B3E46</string>
+		</dict>
+		<key>32CAA5C7-1EF6-4DBC-9762-9A3C9DED8341</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>32CAA5C7-1EF6-4DBC-9762-9A3C9DED8341.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890946.67542398</real>
+			<key>timeStoppedRecording</key>
+			<real>627891067.89353204</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>32CAA5C7-1EF6-4DBC-9762-9A3C9DED8341</string>
+		</dict>
+		<key>34F4E678-5DCF-4FCE-9505-C413E457E219</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>34F4E678-5DCF-4FCE-9505-C413E457E219.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627879048.51043904</real>
+			<key>timeStoppedRecording</key>
+			<real>627879102.94352603</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>34F4E678-5DCF-4FCE-9505-C413E457E219</string>
+		</dict>
+		<key>614A00DE-8007-437E-94B7-82EDC6868FE4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>614A00DE-8007-437E-94B7-82EDC6868FE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627881798.86580801</real>
+			<key>timeStoppedRecording</key>
+			<real>627882036.04911399</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>614A00DE-8007-437E-94B7-82EDC6868FE4</string>
+		</dict>
+		<key>712DE3B9-4D56-42EB-8294-F99AAB5E8A58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>712DE3B9-4D56-42EB-8294-F99AAB5E8A58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627881589.12219298</real>
+			<key>timeStoppedRecording</key>
+			<real>627881731.48508704</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>712DE3B9-4D56-42EB-8294-F99AAB5E8A58</string>
+		</dict>
+		<key>787928D6-D251-4A9B-B29E-46365620A363</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>787928D6-D251-4A9B-B29E-46365620A363.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890108.22048199</real>
+			<key>timeStoppedRecording</key>
+			<real>627890267.36368895</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>787928D6-D251-4A9B-B29E-46365620A363</string>
+		</dict>
+		<key>8F70EAC8-C400-4B62-8F86-852937F4861E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F70EAC8-C400-4B62-8F86-852937F4861E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627889942.69677198</real>
+			<key>timeStoppedRecording</key>
+			<real>627890022.91727698</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>8F70EAC8-C400-4B62-8F86-852937F4861E</string>
+		</dict>
+		<key>A7AC1898-1DBA-4963-A3BA-3B9A72A8380A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A7AC1898-1DBA-4963-A3BA-3B9A72A8380A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627881732.10902405</real>
+			<key>timeStoppedRecording</key>
+			<real>627881769.63034105</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>A7AC1898-1DBA-4963-A3BA-3B9A72A8380A</string>
+		</dict>
+		<key>A9308EC5-CBDA-43BA-855A-E947CC3F3818</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A9308EC5-CBDA-43BA-855A-E947CC3F3818.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882825.04305398</real>
+			<key>timeStoppedRecording</key>
+			<real>627882874.27905703</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>A9308EC5-CBDA-43BA-855A-E947CC3F3818</string>
+		</dict>
+		<key>AB3E0C63-BCCB-4D60-8145-99835A154D93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB3E0C63-BCCB-4D60-8145-99835A154D93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890093.206622</real>
+			<key>timeStoppedRecording</key>
+			<real>627890108.70292199</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>AB3E0C63-BCCB-4D60-8145-99835A154D93</string>
+		</dict>
+		<key>B4058923-D86F-4E13-BC02-51884AC285A8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B4058923-D86F-4E13-BC02-51884AC285A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890778.88477898</real>
+			<key>timeStoppedRecording</key>
+			<real>627890946.19821095</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>B4058923-D86F-4E13-BC02-51884AC285A8</string>
+		</dict>
+		<key>C077C0FD-CE3F-4DAF-B777-3CE045A0C341</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C077C0FD-CE3F-4DAF-B777-3CE045A0C341.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627888108.96343303</real>
+			<key>timeStoppedRecording</key>
+			<real>627889174.71630704</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>C077C0FD-CE3F-4DAF-B777-3CE045A0C341</string>
+		</dict>
+		<key>C8544721-B3AD-4F12-87E0-73EB0A2BDABC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C8544721-B3AD-4F12-87E0-73EB0A2BDABC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890023.30840802</real>
+			<key>timeStoppedRecording</key>
+			<real>627890075.38173795</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>C8544721-B3AD-4F12-87E0-73EB0A2BDABC</string>
+		</dict>
+		<key>C97CF905-C914-42EC-9BDE-1BF0CC4DB2A4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C97CF905-C914-42EC-9BDE-1BF0CC4DB2A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882179.88317597</real>
+			<key>timeStoppedRecording</key>
+			<real>627882222.75586903</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>C97CF905-C914-42EC-9BDE-1BF0CC4DB2A4</string>
+		</dict>
+		<key>DF9D2D65-ABA0-4EE1-BB69-5DEEFEA66477</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DF9D2D65-ABA0-4EE1-BB69-5DEEFEA66477.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890267.79936695</real>
+			<key>timeStoppedRecording</key>
+			<real>627890470.09277105</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>DF9D2D65-ABA0-4EE1-BB69-5DEEFEA66477</string>
+		</dict>
+		<key>E890BF66-B289-4153-80A9-043D59C4AC57</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E890BF66-B289-4153-80A9-043D59C4AC57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627892747.17878699</real>
+			<key>timeStoppedRecording</key>
+			<real>627892784.74060297</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>E890BF66-B289-4153-80A9-043D59C4AC57</string>
+		</dict>
+		<key>F1008D18-3078-4144-92E4-E396248CE894</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F1008D18-3078-4144-92E4-E396248CE894.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882774.11706305</real>
+			<key>timeStoppedRecording</key>
+			<real>627882798.93180501</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>F1008D18-3078-4144-92E4-E396248CE894</string>
+		</dict>
+		<key>F1723F4E-C1A9-48B9-A490-56ABF2953EC7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F1723F4E-C1A9-48B9-A490-56ABF2953EC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890075.95093501</real>
+			<key>timeStoppedRecording</key>
+			<real>627890092.80894995</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>F1723F4E-C1A9-48B9-A490-56ABF2953EC7</string>
+		</dict>
+		<key>F256D790-345E-4377-AE80-19C4F73E4A43</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F256D790-345E-4377-AE80-19C4F73E4A43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627882874.85330701</real>
+			<key>timeStoppedRecording</key>
+			<real>627882887.32117796</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>F256D790-345E-4377-AE80-19C4F73E4A43</string>
+		</dict>
+		<key>F929FC72-8F8C-4FA5-913F-307D7A157DD4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F929FC72-8F8C-4FA5-913F-307D7A157DD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>efficient CPG model project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>efficient CPG model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run efficient CPG model</string>
+			<key>timeStartedRecording</key>
+			<real>627890471.58951199</real>
+			<key>timeStoppedRecording</key>
+			<real>627890538.33799899</real>
+			<key>title</key>
+			<string>Run efficient CPG model</string>
+			<key>uniqueIdentifier</key>
+			<string>F929FC72-8F8C-4FA5-913F-307D7A157DD4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

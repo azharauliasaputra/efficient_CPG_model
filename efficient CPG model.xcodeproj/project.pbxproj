@@ -8,6 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		2E4064E0256BFF0500E37D90 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064DF256BFF0500E37D90 /* main.cpp */; };
+		2E4064EA256BFF1400E37D90 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E4064E7256BFF1400E37D90 /* GLUT.framework */; };
+		2E4064EB256BFF1400E37D90 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E4064E8256BFF1400E37D90 /* OpenGL.framework */; };
+		2E4064EC256BFF1400E37D90 /* AGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E4064E9256BFF1400E37D90 /* AGL.framework */; };
+		2E4064EF256C9AA100E37D90 /* CPG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064EE256C9AA100E37D90 /* CPG.cpp */; };
+		2E4064F1256C9C1900E37D90 /* memory_alloc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064F0256C9C1900E37D90 /* memory_alloc.cpp */; };
+		2E4064F3256C9C5400E37D90 /* IO.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064F2256C9C5400E37D90 /* IO.cpp */; };
+		2E4064F7256C9E8200E37D90 /* locoGenerator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064F5256C9E8200E37D90 /* locoGenerator.cpp */; };
+		2E4064FA256CA53C00E37D90 /* projection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064F8256CA53C00E37D90 /* projection.cpp */; };
+		2E4064FD256CA6E600E37D90 /* malloc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E4064FB256CA6E600E37D90 /* malloc.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +34,20 @@
 /* Begin PBXFileReference section */
 		2E4064DC256BFF0500E37D90 /* efficient CPG model */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "efficient CPG model"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E4064DF256BFF0500E37D90 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2E4064E7256BFF1400E37D90 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+		2E4064E8256BFF1400E37D90 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		2E4064E9256BFF1400E37D90 /* AGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGL.framework; path = System/Library/Frameworks/AGL.framework; sourceTree = SDKROOT; };
+		2E4064ED256C9A7C00E37D90 /* CPG.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPG.h; sourceTree = "<group>"; };
+		2E4064EE256C9AA100E37D90 /* CPG.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CPG.cpp; sourceTree = "<group>"; };
+		2E4064F0256C9C1900E37D90 /* memory_alloc.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = memory_alloc.cpp; sourceTree = "<group>"; };
+		2E4064F2256C9C5400E37D90 /* IO.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = IO.cpp; sourceTree = "<group>"; };
+		2E4064F4256C9C7A00E37D90 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		2E4064F5256C9E8200E37D90 /* locoGenerator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = locoGenerator.cpp; sourceTree = "<group>"; };
+		2E4064F6256C9E8200E37D90 /* locoGenerator.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = locoGenerator.hpp; sourceTree = "<group>"; };
+		2E4064F8256CA53C00E37D90 /* projection.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = projection.cpp; sourceTree = "<group>"; };
+		2E4064F9256CA53C00E37D90 /* projection.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = projection.hpp; sourceTree = "<group>"; };
+		2E4064FB256CA6E600E37D90 /* malloc.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = malloc.cpp; sourceTree = "<group>"; };
+		2E4064FC256CA6E600E37D90 /* malloc.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = malloc.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +55,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E4064EA256BFF1400E37D90 /* GLUT.framework in Frameworks */,
+				2E4064EB256BFF1400E37D90 /* OpenGL.framework in Frameworks */,
+				2E4064EC256BFF1400E37D90 /* AGL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,6 +69,7 @@
 			children = (
 				2E4064DE256BFF0500E37D90 /* efficient CPG model */,
 				2E4064DD256BFF0500E37D90 /* Products */,
+				2E4064E6256BFF1400E37D90 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,8 +85,29 @@
 			isa = PBXGroup;
 			children = (
 				2E4064DF256BFF0500E37D90 /* main.cpp */,
+				2E4064ED256C9A7C00E37D90 /* CPG.h */,
+				2E4064EE256C9AA100E37D90 /* CPG.cpp */,
+				2E4064F0256C9C1900E37D90 /* memory_alloc.cpp */,
+				2E4064F2256C9C5400E37D90 /* IO.cpp */,
+				2E4064F4256C9C7A00E37D90 /* main.h */,
+				2E4064F5256C9E8200E37D90 /* locoGenerator.cpp */,
+				2E4064F6256C9E8200E37D90 /* locoGenerator.hpp */,
+				2E4064F8256CA53C00E37D90 /* projection.cpp */,
+				2E4064F9256CA53C00E37D90 /* projection.hpp */,
+				2E4064FB256CA6E600E37D90 /* malloc.cpp */,
+				2E4064FC256CA6E600E37D90 /* malloc.hpp */,
 			);
 			path = "efficient CPG model";
+			sourceTree = "<group>";
+		};
+		2E4064E6256BFF1400E37D90 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2E4064E9256BFF1400E37D90 /* AGL.framework */,
+				2E4064E7256BFF1400E37D90 /* GLUT.framework */,
+				2E4064E8256BFF1400E37D90 /* OpenGL.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +167,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E4064F1256C9C1900E37D90 /* memory_alloc.cpp in Sources */,
+				2E4064FD256CA6E600E37D90 /* malloc.cpp in Sources */,
+				2E4064EF256C9AA100E37D90 /* CPG.cpp in Sources */,
 				2E4064E0256BFF0500E37D90 /* main.cpp in Sources */,
+				2E4064F7256C9E8200E37D90 /* locoGenerator.cpp in Sources */,
+				2E4064FA256CA53C00E37D90 /* projection.cpp in Sources */,
+				2E4064F3256C9C5400E37D90 /* IO.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,6 +295,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KSLB2ZTFT6;
 				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = "/Users/Azhar/ode-0.14/include";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/Azhar/ode-0.14/drawstuff/src/.libs",
+					"/Users/Azhar/ode-0.14/ode/src/.libs",
+				);
+				OTHER_LDFLAGS = (
+					"-lode",
+					"-ldrawstuff",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -251,6 +314,15 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KSLB2ZTFT6;
 				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = "/Users/Azhar/ode-0.14/include";
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/Azhar/ode-0.14/drawstuff/src/.libs",
+					"/Users/Azhar/ode-0.14/ode/src/.libs",
+				);
+				OTHER_LDFLAGS = (
+					"-lode",
+					"-ldrawstuff",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
